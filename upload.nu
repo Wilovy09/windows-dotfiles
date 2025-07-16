@@ -23,7 +23,7 @@ cd $backup_root
 
 do {
     git add .
-    git commit -m $"Backup (date)"
+    git commit -m $"Backup (date now)"
     git push
 } catch { |err|
     print $"❌ Error al subir a GitHub: ($err)"
