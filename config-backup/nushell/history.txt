@@ -3895,3 +3895,5 @@ nu upload.nu
 clear
 gh repo view --web
 lazygit
+nu upload.nu
+clear
