@@ -1,0 +1,58 @@
+{
+  // THE MOST IMPORTANT SETTINGS -----------------------------------------------
+  "editor.rulers": [80],
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+  "terminal.explorerKind": "external",
+  "terminal.external.linuxExec": "nu",
+  "terminal.external.osxExec": "C:\\Users\\Emiliano Garza\\AppData\\Local\\Programs\\nu\\bin\\nu.exe",
+  "terminal.external.windowsExec": "C:\\Users\\Emiliano Garza\\AppData\\Local\\Programs\\nu\\bin\\nu.exe",
+  "terminal.integrated.defaultProfile.windows": "Nushell",
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "files.autoSave": "afterDelay",
+  "editor.cursorStyle": "line-thin",
+  // ---------------------------------------------------------------------------
+  "workbench.colorTheme": "Gruvbox Dark Hard",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "catppuccin-latte",
+  "explorer.confirmDragAndDrop": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.formatOnSave": true,
+  "git.autofetch": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false,
+    "rust": true
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "git.confirmSync": false,
+  "workbench.startupEditor": "none",
+  "[slint]": {
+    "editor.defaultFormatter": "Slint.slint"
+  },
+  "editor.minimap.autohide": true,
+  "workbench.editorAssociations": {
+    "*.copilotmd": "vscode.markdown.preview.editor",
+    "*.csv": "gc-excelviewer-csv-editor"
+  },
+  "[sql]": {
+    "editor.defaultFormatter": "inferrinizzard.prettier-sql-vscode"
+  },
+  "database-client.autoSync": true,
+  "git.openRepositoryInParentFolders": "always"
+}

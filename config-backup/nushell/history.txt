@@ -1,0 +1,3894 @@
+nu config
+config nu
+cd 
+clear
+cd C:\Users\Emiliano Garza\AppData\Local\Programs\nu\bin
+cd "C:\Users\Emiliano Garza\AppData\Local\Programs\nu\bin"
+clear
+config
+config nu
+$env.EDITOR="Code"
+$env.EDITOR=Code
+$env.EDITOR='Code'
+$env.EDITOR
+clear
+config nu
+$nu.config-path
+code "C:\Users\Emiliano Garza\AppData\Roaming\nushell"
+code "C:\\Users\\Emiliano Garza\\AppData\\Roaming\\nushell"
+ls
+clear
+cat
+clear
+ls
+cat `Desktop\Correo y Accesos.txt`
+clear
+ls
+clear
+winget install -e --id=JesseDuffield.lazygit
+lazygit
+clear
+mkdir Dev
+ls
+cd Dev
+clear
+gh auth login
+gh repo clone DABIcompany/DurandalWeb
+cd DurandalWeb\
+cd Dev\DurandalWeb\
+clear
+ls
+clear
+code .
+nvm
+which nvm
+clear
+nvm list
+node
+npm
+clear
+"C:\Users\Soporte\AppData\Local\nvm\nvm.exe"
+.\C:\Users\Soporte\AppData\Local\nvm\nvm.exe
+C:\Users\Soporte\AppData\Local\nvm\nvm.exe
+nvm
+nvm install 20.10
+nvm use 20.10.0
+clear
+node --version
+npm --version
+cd Dev\DurandalWeb\server\
+ls
+clear
+ls
+npm i
+npm
+clear
+cd Dev\DurandalWeb\
+ls
+clear
+cat package.json
+ls
+node --watch ./server/index.js
+which nu
+cd Dev\
+clear
+winget install Gyan.FFmpeg 7zip.7zip jqlang.jq sharkdp.fd BurntSushi.ripgrep.MSVC junegunn.fzf ajeetdsouza.zoxide ImageMagick.ImageMagick
+yazi
+clear
+cd Dev
+yazi
+c;ear
+clear
+ls
+rm -rf ./DurandalWeb/
+ls
+gh repo clone DABIcompany/DurandalWeb
+clear
+ls
+cd DurandalWeb\
+git fetch
+git checkout feature/migrate-lib-to-repositories
+clear
+ls
+clear
+code .
+yazi
+winget install sxyazi.yazi
+yazi
+ya
+clear
+which yazi
+yazi
+clear
+cd Dev\DurandalWeb\
+clear
+ls
+clear
+cd server\
+npm i
+clear
+ls
+node --watch ./index.js
+cd ..
+ls
+clear
+cat .env
+clear
+http get http://localhost:3001/app
+http --help
+http get --help
+http get http://localhost:3001/app/login
+http get https://localhost:3001/app/login
+clear
+node --watch ./server/index.js
+lazygit
+git commit -m ":sparkles: Create method `getById` for `ActivityRespository`"
+git config --global user.email "srwilovy09@gmail.com"
+git config --global user.name "Emiliano Maldonado Garza"
+git commit -m ":sparkles: Create method `getById` for `ActivityRespository`"
+lazygit
+clear
+cd Dev\
+clear
+cd DurandalWeb
+clear
+git pull
+git checkout secovi-payer-clients
+clear
+git fetch
+git pull
+cd ..
+cd client\
+ls
+cd durandaltest\
+npm i
+clear
+ls
+cat package.json
+clear
+npm install
+npm config set "@fortawesome:registry" https://npm.fontawesome.com/
+npm config set "//npm.fontawesome.com/:_authToken" 0E5C08EE-68A8-4E24-A9E8-9AEBE624F3C4
+npm i
+clear
+npm start
+ls
+cd Dev\DurandalWeb\server\
+ls
+cd ..
+node --watch ./server/index.js
+cd server\
+npm run dev
+cd ..
+node --watch ./server/index.js
+ls
+ls server\
+cd server\
+npm i
+node --watch ./server/index.js
+yazi
+clear
+node --watch ./server/index.js
+ls
+cd ..
+ls
+npm start
+npm run dev
+cd Dev\DurandalWeb
+clear
+git checkout feature/migrate-to-vite
+git fetch
+git checkout feature/migrate-to-vite
+lazygit
+clear
+git checkout feature/migrate-to-vite
+clear
+code .
+yazi
+clear
+cd client\
+clear
+ls
+clear
+npm uninstall react-script react-scripts
+clear
+npm install vite @vite/plugin-react -D
+npm install vite @vitejs/plugin-react -D
+npm start
+clear
+yazi
+clear
+yazi
+clear
+npm start
+clear
+npm start
+yazi
+npm start
+clear
+npm start
+clear
+npm start
+cd Dev\DurandalWeb\
+clear
+cd server\
+cd ..
+clear
+node --watch ./server/index.js
+node ./server/index.js
+cd server\
+npm i
+cd ..
+cd Dev\DurandalWeb\
+clear
+npm start
+lazygit
+clear
+yazi
+clear
+lazygit
+gch
+clear
+git checkout main
+git fetch
+git pull
+clear
+git checkout feature/migrate-to-vite
+git merge main
+yazi
+clear
+npm start
+ls
+cd client\
+clear
+cd Dev\DurandalWeb\client\
+cat package.json
+npm build
+npm run build
+clear
+time npm run start
+clear
+npm start
+node ./server/index.js
+clear
+clear
+yazi
+ip a
+ip -a
+ipconfig
+clear
+cd Dev\DurandalWeb\
+gch
+clear
+cd Dev\DurandalWeb\
+git fetch
+git checkout feature/modal-secovi-payer-client-edit
+clear
+code .
+clear
+cd client\
+npm start
+cd Dev\DurandalWeb\
+c;ear
+clear
+npm i; npm run dev
+npm run
+cat package.json
+ls
+cd durandaltest\
+clear
+ls
+node ./server/index.js
+npm i; npm run dev
+npm run
+node --watch ./server/index.js
+clear
+npm run start
+ls; node ./server/index.js
+clear
+clear
+cargo
+cd Dev\
+cargo new Orbita
+yazi
+cargo new orbita
+cd orbita\
+clear
+code .
+cargo add iced --features tokio
+cargo add regex walkdir
+clear
+cat Cargo.toml
+clear
+cd Dev\DurandalWeb\
+yazi
+cd ..
+ls
+touch orbita.sh
+yazi
+code orbita.nu
+clear
+cat ./src/
+cat ./src/components/Modal/EditReportModal.jsx
+clear
+cd orbita\
+code .
+cd ..
+yazi
+cd orbita\
+cargo run -- --path ./src --regex "/\\w*>" --extension-nueva jsx --dry-run
+cargo run -- --path ../src --regex "/\\w*>" --extension-nueva jsx --dry-run
+yazi
+cargo run -- --path ../src --regex "/\\w*>" --extension-nueva jsx --dry-run
+cargo run -- --path ../src --regex "/\\w*>" --extension-nueva jsx
+cargo run -- --path ../src --modo js-a-jsx --dry-run
+code ./src/
+cd src\
+cd ..
+code ./src/
+cd orbita\
+clear
+ls
+clear
+cargo run -- --path ../src --modo js-a-jsx --dry-run
+cargo run -- --path ../src --modo js-a-jsx
+cargo run -- --path ../src --modo jsx-a-js
+cargo run -- --path ../src --modo js-a-jsx
+cargo run -- --help
+clear
+cargo build
+yazi
+cargo build --release
+yazi
+explorer .
+clear
+lazygit
+gh repo create
+clear
+gh repo view --web
+ls -a
+lazygit
+clear
+./target/release/orbita.exe --help
+cd
+cd Dev\DurandalWeb\
+yazi
+clear
+lazygit
+code .
+clear
+lazygit
+clear
+cd Dev\orbita\
+git fetch
+git pull
+clear
+code .
+cargo install cargo-release
+clear
+cargo release -x major
+lazygit
+cargo release -x major
+cargo login
+cargo release -x major
+lazygit
+cargo release -x major
+lazygit
+cargo release -x major
+clear
+git fetch
+git pull
+clear
+lazygit
+yazi
+lazygit
+clear
+cd ..
+clear
+cd DurandalWeb\
+cd Dev\DurandalWeb\
+cd client\
+ls
+cd Dev\DurandalWeb\
+npm run start
+npm run dev
+npm run
+cat package.json
+cd durandaltest\
+npm run
+node --watch ./server/index.js
+cd server\
+node ./index.js
+ls
+ls -a
+cd ..
+ls -a
+cat .env
+clear
+ls
+code .
+npm run start
+clear
+npm run start
+node ./server/index.js
+clear
+cd Dev\
+clear
+cargo new insert-users-from-xlsx
+cd insert-users-from-xlsx\
+clear
+yazi
+clear
+code .
+cargo add calamine
+cargo add calamine@0.20
+clear
+open Layout_usuarios_AMI-06_05_2025.xlsx
+http post \--content-type application/json http:localhost:3001/createTech
+http post --content-type application/json http://localhost:3001/createTech \<\n>{<\n>}
+touch main.nu
+code main.nu
+clear
+node ./server/index.js
+clear
+node ./server/index.js
+nu main.nu
+node --watch ./server/index.js
+node ./server/index.js
+nu main.nu
+node ./server/index.js
+clear
+ls
+nu main.nu
+c;ear
+clear
+git fetch
+git pool
+git pull
+lazygit
+cd
+cd Dev\DurandalWeb\
+clear
+git fetch
+git pull
+clear
+lazygit
+gch
+git branchs
+git branch
+lazygit
+cd Dev\DurandalWeb\
+clear
+git branch
+git checkout secovi-payer-clients
+git fetch
+git pull
+clear
+git checkout feature/modal-secovi-payer-client-edit
+git fetch
+git pull
+git merge secovi-payer-clients
+code .
+clear
+cd Dev\DurandalWeb\
+clear
+cd client\
+clear
+ls
+clear
+cd durandaltest\
+clear
+ls
+clear
+npm r
+npm run start
+clear
+npm run start
+npm i
+npm run start
+node ./server/index.js
+clear
+clear
+node ./server/index.js
+clear
+npm run start
+clear
+node ./server/index.js
+npm run start
+clear
+git checkout secovi-payer-clients
+git fetch
+git pull
+cd ..
+clear
+yazi
+clear
+npm create vite@latest
+cd test_react_ts_app\
+npm install
+code .
+cd ..
+clear
+cd DurandalWeb\
+git fetch
+git checkout feature/free-techs
+code .
+cd Dev\DurandalWeb
+cd client\
+npm run start
+node ./server/index.js
+npm install
+cd server\
+ls
+npm install
+cd ..
+npm install
+node ./server/index.js
+yazi
+npm run start
+node ./server/index.js
+clear
+node ./server/index.js
+cd ..
+yazi
+lazygit
+clear
+git checkout main
+clear
+git fetch
+git pull
+clear
+lazygit
+clear
+npx depcheck
+ls
+cd client\
+ls
+clear
+npx depcheck
+clear
+cd ..
+clear
+git fetch
+git checkout chore/remove-unused-deps
+clear
+cd client\
+npx depcheck
+cd ..
+cd server\
+clear
+npx depcheck
+npm install
+cd Dev\DurandalWeb\client\
+clear
+clear
+cd ..
+node ./server/index.js
+npm run start
+c;ear
+clear
+clear
+ls
+cd ..
+clear
+git fetch
+git checkout feature/form_start_up_request
+clear
+lazygit
+code .
+cd client\durandaltest\
+clear
+npm install
+clear
+cd Dev\DurandalWeb\
+clear
+./server/index.js
+node ./server/index.js
+cd client\durandaltest\
+cd server\
+cd ..
+cd server\
+npm i
+clear
+cd ..
+npm run start
+git pull origin vite-config/stulz
+lazygit
+clear
+git pull origin vite-config/stulz
+clear
+node ./server/index.js
+clear
+cd ..
+ls
+clear
+npm run start
+cd server\
+npm install
+cd ..
+npm install
+npm run start
+node ./server/index.js
+clear
+git checkout warrantly-form-survey
+git fetch; git checkout warrantly-form-survey
+git fetch
+git checkout warrantly-form-survey
+git checkout warranty-form-survey
+git pull
+clear
+git checkout feature/form_start_up_request
+clear
+git merge warranty-form-survey
+clear
+npm run start\
+node ./server/index.js
+npm run start
+clear
+npm run start
+node ./server/index.js
+clear
+clear
+git fetch
+git pull warranty-form-survey
+git pull origin warranty-form-survey
+npm start
+git pull origin warranty-form-survey
+lazygit
+git pull origin warranty-form-survey
+clear
+cd client\
+npx depcheck
+npm run format
+npx prettier --write .
+clear
+npm run format
+npx depcheck
+npm run depcheck
+clear
+npm run depcheck
+clear
+npx eslint
+npx eslint --help
+npm install eslint --save-dev
+npm install eslint-plugin-unused-imports --save-dev
+npm run lint:fix
+npm run lint
+npm install eslint babel-eslint --save-dev
+npm install eslint-plugin-react eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y --save-dev
+npm run lint
+npm run lint:fix
+npm start
+git diff ./C:\Users\Emiliano Garza\Dev\DurandalWeb\client\src\components\NonAuthScreen.jsx
+git diff C:\Users\Emiliano Garza\Dev\DurandalWeb\client\src\components\NonAuthScreen.jsx
+git diff "C:\Users\Emiliano Garza\Dev\DurandalWeb\client\src\components\NonAuthScreen.jsx"
+clear
+cd Dev\
+cd DurandalWeb\
+lazygit
+npm run lint:fix
+npm install --save-dev \
+eslint \
+eslint-config-airbnb \
+eslint-plugin-react \
+eslint-plugin-jsx-a11y \
+eslint-plugin-import \
+eslint-plugin-unused-imports \
+prettier \
+eslint-config-prettier \
+eslint-plugin-prettier
+npm install --save-dev  eslint eslint-config-airbnb eslint-plugin-react eslint-plugin-jsx-a11y eslint-plugin-import eslint-plugin-unused-imports prettier eslint-config-prettier eslint-plugin-prettier
+npm run lint:fix
+clear
+npm run lint:fix
+cd Dev\DurandalWeb\
+cd client\
+tokei
+cargo install tokei
+tokei
+npm run lint -- --fix
+npm run lint -- --fix .
+no entiendo na
+clear
+ls
+clear
+a
+clear
+less
+npm run lint -- --fix . | less
+neogit
+clear
+npm run lint -- --fix .
+npm run lint
+npm run lint -- --fix
+cd Dev\DurandalWeb\
+clear
+git fetch
+gc fix/general-adjustments
+git checkout fix/general-adjustments
+clear
+code .
+clear
+cd Dev\DurandalWeb\
+cd server\
+cd ..
+cd server\
+cd client\
+ls
+npm install
+ls durandaltest\
+cd durandaltest\
+node ./server/index.js
+clear
+npm install
+clear
+node ./index.js
+cd ..
+node ./server/index.js
+node ./server/index.js --watch
+node ./server/index.js
+clear
+git log
+clear
+node ./server/index.js
+clear
+node ./server/index.js
+npm run start
+clear
+clear
+git merge origin secovi
+git merge origin/secovi
+clear
+cd Dev\
+ls
+ckear
+clear
+./orbita/target/release/orbita.exe --help
+git fetch
+git checkout came-feature-crud_gamas
+git checkout came-feature-crud_gamas
+clear
+clear
+cd ..
+clear
+cd client\durandaltest\
+cd server\
+npm i
+npm i
+cd ,,
+cd ..
+clear
+node ./server/index.js
+clear
+node ./server/index.js
+node --watch ./server/index.js
+cargo watch
+cargo install cargo-watch
+cargo watch
+cargo watch -w ./server/
+clear
+ipconfig
+curl ifconfig.me
+curl ifconfig.co
+(Invoke-WebRequest -uri "https://ifconfig.me/ip").Content
+cd Dev\DurandalWeb\
+clear
+cd Dev\DurandalWeb\
+clear
+cd client\durandaltest\
+node --watch ./server/index.js
+node ./server/index.js
+clear
+code .
+npm run start
+nom i react-helmet-async
+npm i react-helmet-async
+node ./server/index.js
+node --watch ./server/index.js
+npm run start
+clear
+clear
+node --watch ./server/index.js
+node ./server/index.js
+node --watch ./server/index.js
+cd Dev\
+cargo new migrat
+cd migrat
+clear
+code .
+cargo run
+npm run start
+cd Dev\migrat\
+clear
+cargo run
+clear
+cargo run
+cargo watch -x run
+clear
+cargo watch -x run
+clear
+cargo watch -x run
+clear
+cargo watch -x run
+git init
+clear
+lazygit
+gh repo create
+gh repo view --web
+cd Dev\DurandalWeb\
+clear
+ls
+clear
+cd Dev\DurandalWeb\
+node --watch ./server/index.js
+cd client\
+cd durandaltest\
+npm run start
+node ./server/index.js
+clear
+clear
+git checkout came-frontend
+clear
+git fetch
+git pull
+clear
+cd server\
+npm i
+npm i
+node ./server/index.js
+cd ..
+clear
+cd Dev\DurandalWeb\
+tokei
+node ./server/index.js
+code .
+npm run start
+node ./server/index.js
+ckear
+clear
+ckear
+clear
+cd Dev\migrat\
+clear
+ls
+clear
+cargo add migrat
+clear
+ls
+clear
+cargo run
+code .
+clear
+cargo run
+clear
+cd Dev\migrat\
+clear
+code .
+cargo run
+cd ..
+clear
+cd DurandalWeb\
+git fetch
+clear
+git checkout fix/STULZ-visits_date
+lazygit
+code .
+clear
+cd Dev\DurandalWeb\
+clear
+cd client\
+cd ..
+clear
+cd server\
+cd client\
+ls
+npm i
+npm i
+clear
+node ./index.js
+clear
+cd ..
+node ./server/index.js
+cd Dev\migrat\
+code .
+clear
+cargo add reqwest tokio tokio-utils
+clear
+cargo add slint
+cargo add slint-build
+npm run start
+node ./server/index.js
+clear
+git checkout stulz
+git fetch
+git checkout fix/SIGMA-general
+clear
+cd durandaltest\
+cd server\
+npm i
+npm i
+node ./index.js
+cargo run
+cargo run | less
+clear
+cargo run | less
+clear
+cd ,,
+cd ..
+code .
+clear
+cargo watch -x run
+clear
+cargo run
+npm run start
+node ./server/index.js
+clear
+clear
+git fetch
+git checkout secovi
+git fetch
+git pull
+clear
+git cherry-pick d4c92a23e1b8c212b985f8d560c3bd4d53c79db7
+git cherry-pick --help
+git cherry-pick d4c92a23e1b8c212b985f8d560c3bd4d53c79db7 -m
+git cherry-pick -m d4c92a23e1b8c212b985f8d560c3bd4d53c79db7
+git cherry-pick d4c92a23e1b8c212b985f8d560c3bd4d53c79db7
+git cherry-pick -m 1 d4c92a23e1b8c212b985f8d560c3bd4d53c79db7
+ks
+ls
+clear
+npm i
+lazygit
+clear
+node ./server/index.js
+cd server\
+npm i
+node ./server/index.js
+node ./index.js
+npm run start
+clear
+clear
+git fetch; git checkout feature/COMERCIAL-filters
+npm i
+npm i
+choco install dbeaver
+clear
+cargo run
+explorer .
+code .
+cargo run
+cargo watch -x run
+cargo install slint-viewer
+slint-viewer ./ui/index.slint
+slint-viewer --help
+slint-viewer --auto-reload ./ui/index.slint
+clear
+slint-viewer --help
+slint-viewer --auto-reload --style fluent ./ui/index.slint
+slint-viewer --auto-reload --backend  ./ui/index.slint
+slint-viewer --auto-reload --backend winit ./ui/index.slint
+code .
+cargo run
+cargo add rfd
+clear
+cargo run
+clear
+cargo install cargo-apk
+clear
+git fetch
+git checkout feature/STULZ-technicals_files
+clear
+git checkout feature/STULZ-technicals_files
+clear
+clear
+code .
+cd ..
+clear
+code .
+git checkout feature/COMERCIAL-filters
+clear
+lazygit
+code .
+git lg
+git log
+git revert .
+git revert --help
+clear
+lazygit
+git merge cancel
+lazygit
+git merge --abort
+clear
+cd client\
+;s
+ls
+cd durandaltest\
+ls
+clear
+npm i
+npm i
+clear
+clear
+rustup target add aarch64-linux-android
+cd Dev\migrat\
+clear
+node ./index.js
+clear
+node ./index.js
+clear
+node ./index.js
+npm run start
+code .
+cargo watch -x run
+cargo run
+cd Dev\migrat\
+cargo watch -x run
+clear
+slint-viewer --auto-reload ./ui/index.slint
+clear
+clear
+cd ..
+clear
+lazygit
+clear
+cd client\
+cd durandaltest\
+clear
+npm i
+npm i
+clear
+nvim
+clear
+node ./index.js
+git fetch
+git pull
+git log
+git merge sigma
+git merge origin/sigma
+node ./index.js
+clear
+lazygit
+clear
+node ./index.js
+node --watch ./index.js
+clear
+cd Dev\DurandalWeb\client\
+clear
+cd durandaltest\
+cd Dev\DurandalWeb\server\
+node ./index.js
+node --watch ./index.js
+npm run start
+cd Dev\
+cargo init migrat-freya
+cd migrat-freya\
+code .
+cd ..
+clear
+gh repo clone marc2332/freya
+cd freya\
+code .
+cargo run --help
+cargo run --examples accesibility.rs
+cargo --version
+cargo run --examples accesibility.rs
+cargo run -- --examples accesibility.rs
+clear
+cd examples\installer\
+cd
+cd Dev\
+cd freya\
+clear
+cargo run
+cd ..
+./examples.sh
+ls examples/*.rs
+| each { |it|<\n>    let name = ($it.name | str replace '.rs' '' | path basename)<\n>    cargo run --example $name &<\n>}
+touch examples.nu
+./examples.nu
+nu ./examples.nu
+clear
+cargo run -- --examples ./examples/accessibility.rs
+cargo run --examples ./examples/accessibility.rs
+cargo run --example ./examples/accessibility.rs
+cargo run --example accessibility
+cargo run --example app_dog
+cargo run --example file_drop
+cargo run --example file_explorer
+cargo run --example website
+cargo run --example window_drag_area
+cargo run --example themer
+cargo run --example menu
+cd Dev\migrat-freya\
+clear
+ls
+clear
+code .
+clear
+cd Dev\migrat-freya\
+clear
+code .; cargo run
+clear
+cd Dev\migrat\
+c;ear
+clear
+yazi
+clear
+lazygit
+gh repo view --web
+clear
+cd
+cd Dev\
+clear
+cd DurandalWeb\
+cd Dev\DurandalWeb\
+cd server\
+node --watch ./index.js
+cd client\
+npm run start
+cd ..
+code .
+cd DurandalWeb\
+code .
+cd client\
+clear
+ls
+cd durandaltest\
+clear
+ls
+clear
+node ./index.js
+clear
+node ./index.js
+node --watch ./index.js
+zewllij
+zellij
+winget install zellij
+clear
+node --watch ./index.js
+node ./index.js
+npm run start
+git fetch
+git pull
+npm run start
+cd Dev\migrat\
+clear
+code .
+cargo watch -x run
+clear
+cd Dev\freya\
+cargo run --example drag_drop
+cargo run --example drag
+cargo run --example file_drop
+cargo watch -x run
+cd ..
+clear
+cd DurandalWeb\
+cd Dev\DurandalWeb\
+cd server\
+node --watch ./index.js
+cd client\
+clear
+cd durandaltest\
+node ./index.js
+node --watch ./index.js
+npm run start
+mkdir Notas
+cd Notas\
+mkdir github_actions
+cd github_actions\
+clear
+code .
+git init
+clear
+cd Dev\DurandalWeb\
+clear
+cd Dev\DurandalWeb\
+cd server
+cd client\durandaltest\
+clear
+node --watch ./index.js
+cd Dev\DurandalWeb\
+code .
+node ./index.js
+node --watch ./index.js
+node ./index.js
+npm run start
+clear
+clear
+cd Dev\migrat\
+clear
+code .
+cargo watch -x run
+cd Dev
+yazi
+gh repo clone Wilovy09/fork-freya
+cd fork-freya\
+git fetch
+git checkout feature/add-support-to-hex-transparency
+code .
+cargo run --example custom_theme
+cargo test
+clear
+cd crates\core\
+clear
+ls
+cargo test --help
+cargo test --help .
+cargo test .
+cd ..
+cargo run --example custom_theme
+cd crates\core\
+cargo test .
+cd ..
+cargo run --example custom_theme
+cargo fmt
+clear
+git reset .
+clear
+cd crates\core\
+clear
+ls
+cargo clippy --workspace
+cargo +nightly fmt --all -- --error-on-unformatted --unstable-features
+cd ..
+clear
+cd ..
+yazi
+clear
+gh repo clone marc2332/freya
+cd freya\
+cargo run --example preferred_theme
+cargo run --example switch_theme
+cd Dev\migrat\
+code .
+cd Dev\DurandalWeb\
+clear
+cd Dev\DurandalWeb\
+clear
+cd server\
+clear
+ls
+lazygit
+clear
+cd Dev\DurandalWeb\
+lazygit
+code .
+cd client\
+cd durandaltest\
+clear
+cargo watch -x run
+clear
+cargo watch -x run
+cargo add dioxus
+cargo watch -x run
+cd Dev\freya\
+cargo run --example svg
+clear
+cargo watch -x run
+npm run start
+node ./index.js
+lclear
+clear
+clear
+git fetch
+git checkout eaton
+lazygit
+git checkout eaton
+clear
+ls
+clear
+git fetch
+git checkout feature/EATON-general-fixes
+clear
+cd ..
+yazi
+clear
+cd Dev\
+cd orbita\
+ls
+clear
+yazi
+clear
+yazi
+clear
+cd ..
+code .
+cd client\
+clear
+cd ..
+./orbita.exe --help
+./orbita.exe --path ./client/ --modo js-a-jsx -d
+./orbita.exe --path ./client/ --modo js-a-jsx
+clear
+cd client\
+clear
+cd ..
+cd server\
+clear
+npm install
+npm install
+clear
+npm uninstall react-script react-scripts
+npm install vite @vitejs/plugin-react -D
+clear
+node ./index.js
+node --watch ./index.js
+cd Dev\migrat\
+clear
+code .
+clear
+cargo watch -x run
+clear
+cargo run
+cd Dev\DurandalWeb\
+clear
+code .
+cargo watch -x run
+yazi
+clear
+git init
+yazi
+cd ..
+yazi
+cd echo-ui\
+clear
+code .
+cargo watch -x run
+clear
+lazygit
+gh repo create
+clear
+cd Dev\DurandalWeb\
+clear
+cd Dev\DurandalWeb\
+cd server\
+node --watch ./index.js
+cd client\
+clear
+node ./index.js
+cd Dev\echo-ui\
+clear
+code .
+cargo watch -x run
+cd ..; code .; cd server; node ./index.js
+node --watch ./index.js
+node ./index.js
+clear
+cd Dev\freya\
+cargo run --example accordion
+cat examples\accordion.rs
+cd Dev\echo-ui\
+code .
+clear
+npm start
+node --watch ./index.js
+cargo watch -x run
+cd Dev\echo-ui\
+code .
+clear
+cargo watch -x run
+cd Dev\DurandalWeb\
+clear
+code .
+cd Dev\echo-ui\
+code .
+cargo watch -x run
+lazygit
+cd Dev\DurandalWeb\server\
+node --watch ./index.js
+cd client\
+clear
+npm
+node ./index.js
+npm start
+git checkout feature/AMI-send_surveys
+clear
+clear
+git fetch
+git checkout feature/AMI-send_surveys
+cd durandaltest\
+CLEAR
+clear
+ls
+clear
+ls
+clear
+npm i
+npm i
+clear
+npm start
+node ./index.js
+node --watch ./index.js
+node ./index.js
+node --watch ./index.js
+node ./index.js
+code .
+cargo watch -x run
+clear
+cargo watch -x run
+cargo docs
+cargo doc
+cargo doc --help
+cargo doc --open
+node ./index.js
+node --watch ./index.js
+cd Dev\DurandalWeb\server\
+node --watch ./index.js | less
+ls
+clear
+node --watch ./index.js
+clear
+cd Dev\echo-ui\
+code .
+cargo watch -x run
+clear
+cd ..
+cargo new hello_world
+cd hello_world\
+cargo add freya
+code .
+clear
+cargo run
+cd ..
+cd echo-ui\
+clear
+code .
+cargo check
+cd ..
+cd hello_world\
+clear
+cargo run
+py
+clear
+winget install python3
+clear
+node --watch ./index.js
+clear
+lazygit
+git checkout eaton
+clear
+npm i
+clear
+cd Dev\q
+cd Dev\
+clear
+touch request.nu
+code request.nu
+node ./index.js
+node --watch ./index.js
+clear
+nu request.nu
+open sites_eatoncpdi.xlsx
+open sites_eatoncpdi.xlsx | table
+open sites_eatoncpdi.xlsx --table
+clear
+nu request.nu
+clear
+open sites_eatoncpdi.xlsx | each {|row|}
+open sites_eatoncpdi.xlsx | each {|row| http post }
+open sites_eatoncpdi.xlsx | each {|row| http post http://localhost:3001/createSite/$row."client_id" {} }
+clear
+nu request.nu
+node ./index.js
+nu request.nu
+node ./index.js
+clear
+nu request.nu
+node ./index.js
+clear
+nu request.nu
+node ./index.js
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+node ./index.js
+clear
+lazygit
+clear
+git checkout feature/AMI-send_surveys
+clear
+cd Dev\DurandalWeb\server\
+clear
+nose ./index.js
+cd ..
+cd client\
+clear
+ls
+cd durandaltest\
+clear
+npm i
+npm i
+clear
+node ./index.js
+cd Dev\echo-ui\
+clear
+code .
+clear
+cargo watch -x run
+cd Dev\freya\
+clear
+cargo run --example checkbox
+cat examples\checkbox.rs
+cargo watch -x run
+clear
+cargo watch -x run
+clear
+cargo watch -x run
+cargo add freya-core
+cargo watch -x run
+clear
+cargo add freya-elements
+cargo watch -x run
+clear
+cargo add freya-hooks
+cargo watch -x run
+ls --depth 3
+clear
+ls --help
+clear
+clear
+cd ..
+clear
+ls
+mkdir echoui
+clear
+cd echoui\
+cargo new --lib echoui
+cargo new echo_ui
+code .
+cd Dev\echoui\echo_ui\
+clear
+cargo add freya
+cd echoui\
+clear
+ls
+ls src\
+clear
+cargo add freya
+npm start
+clear
+clear
+cargo run
+clear
+node ./index.js
+cd Dev\echoui\echo_ui\
+cargo run
+cargo clippy --fix
+cargo clippy --fix --allow_dirty
+cargo fix --allow_dirty
+cargo.exe fix --allow_dirty
+cargo.exe clippy fix --allow_dirty
+cargo.exe clippy --help
+clear
+cargo run
+cd 
+cd Dev\DurandalWeb\
+code .
+node ./index.js >> logs.log
+node ./index.js | less
+node ./index.js
+node --watch ./index.js
+node ./index.js
+npm start
+clear
+clear
+clear
+cd
+cd Dev\
+clear
+nu request.nu
+clear
+nu request.nu
+code sitios_geolocalizados.json
+clear
+cd DurandalWeb\
+git checkout sigma
+git fetch
+git checkout fix/SIGMA-edit_techs
+code .
+ls
+clear
+npm i
+npm i
+npm run startr
+node ./index.js
+clear
+npm run start
+clear
+cd Dev\echoui\
+clear
+code .
+clear
+cd echo_ui\
+ls
+ls src\
+clear
+cd Dev\DurandalWeb\
+clear
+lazygit
+yazi
+clear
+git fetch; git checkout feature/EATON-create_agenda_visit; cd ./client/durandaltest; npm i; cd ..; cd ..; cd ./server; npm i
+ls
+cd ..
+ls
+clear
+yazi
+cd ..
+code .
+cd client
+clear
+ls
+clear
+npm i
+cd Dev\DurandalWeb\server\
+npm i
+clear
+clear
+node ./index.js
+npm run start
+clear
+clear
+node ./index.js
+npm run start
+cd Dev\echoui\
+clear
+ls
+clear
+code .
+cd echo_ui\
+ls src\
+cargo run
+cargo --watch x run
+cd Dev\DurandalWeb\
+cd Dev/DurandalWeb/
+clear
+cd client\
+ls
+cd server
+cd Dev/DurandalWeb/
+code .
+node ./index.js
+clear
+npm run start
+clear
+git fetch; git checkout FIX/EATON-general-adjustments; cd ./client; npm i; cd ..; cd ..; cd ./server; npm i
+cd ..
+git fetch; git checkout FIX/EATON-general-adjustments; cd ./client; npm i; cd ..; cd ..; cd ./server; npm i
+ls
+cd DurandalWeb\
+clear
+ls
+cd client\
+npm i
+ks
+ls
+clear
+npm i
+node --watch ./index.js
+clear
+node ./index.js
+git fetch
+git checkout FIX/EATON-inactivate_visit_and_technicals_visibility_in_map_and_in agenda
+npm run start
+clear
+git fetch
+git checkout FIX/EATON-inactivate_visit_and_technicals_visibility_in_map_and_in agenda
+cd ..
+git checkout FIX/EATON-inactivate_visit_and_technicals_visibility_in_map_and_in agenda
+git checkout FIX/EATON-inactivate_visit_and_technicals_visibility_in_map_and_in_agenda
+git fetch
+git checkout FIX/EATON-inactivate_visit_and_technicals_visibility_in_map_and_in_agenda
+clear
+cd server\
+clear
+ls
+clear
+cd Dev\
+ls
+clear
+cargo --init orb
+cargo init orb
+cd orb\
+clear
+code .
+clear ..
+code ..
+cd ..
+yazi
+clear
+mkdir orb
+cd orb\
+cargo init orb-backend
+cargo init orb-frontend
+clear
+code .
+cd orb-frontend\
+cargo add freya
+clear
+cd ..
+yazi
+git init
+clear
+yazi
+clear
+yazi
+lazygit
+clear
+gh repo create
+clear
+code .
+clear
+lazygit
+cd Dev\orb\
+code .
+044580145036174833
+clear
+node ./index.js
+clear
+git fetch
+git pull
+lazygit
+clera
+lazygit
+npm run start
+git fetch
+git pull
+lazygit
+clear
+cd Dev\orb\
+clear
+cd ..
+cd freya\
+code .
+cargo run --example gradient
+cargo run --example animation
+code .
+cargo run --example skeleton
+cargo run --example gradient
+cargo run --example skeleton
+cd ..
+lazygit
+code .
+lazygit
+clear
+npm run start
+cd client\
+npm run start
+lazygit
+clear
+node ./index.js
+npm run start
+clear
+clear
+clear
+node ./index.js
+node ./index.js\
+node ./index.js
+npm run start
+clear
+clear
+git fetch
+cd ..
+ls
+clear
+cd ..
+clear
+git checkout feature/SIGMA-fix_things
+clear
+ls
+cd server\
+cd client\durandaltest\
+npm i
+nodemon
+clear
+npm i -g nodemon
+npm i
+cd ../../
+cd Dev\DurandalWeb\
+cd client\durandaltest\
+clear
+npx nodemon ./index.js
+npm run start
+cd Dev/orb/
+clear
+lazygit
+git fetch
+git pull
+clear
+code .
+cd orb-frontend\
+clear
+cargo add slint
+cargo add -b slint-build
+cargo add --help
+cargo add --build slint-build
+cargo remove freya
+cargo add --build slint-build
+cargo add slint
+clear
+clear
+clear
+cargo run
+cargo add reqwest tokio tokio-utils
+cd orb-frontend\
+cargo add reqwest tokio tokio-utils
+clear
+cargo add tokio -F asdfasdfasdf
+cargo add tokio -F full
+cargo run
+clear
+cargo run
+cd
+cd Dev\orb
+cd orb-frontend\
+clear
+code .; cargo watch -x run
+cd Notas\
+pwd
+clear
+code .
+cd Dev\
+clear
+ls
+./orbita.exe --path ./DurandalWeb/client/ --modo js-a-jsx -d
+clear
+cd Dev\DurandalWeb\
+ls
+clear
+code .
+cd Dev\
+nu ./request.nu
+clear
+nu ./request.nu
+clear
+nu ./request.nu
+cd ..
+open layout_darandal_secovi.xlsx
+open layout_darandal_secovi.xlsx | Clients
+open layout_darandal_secovi.xlsx | get Clients
+open layout_darandal_secovi.xlsx | get Clientes
+clear
+open layout_darandal_secovi.xlsx | get Clientes | columns
+open layout_darandal_secovi.xlsx | get Clientes | columns | rename id nombre rfc razon_social tipo_de_contribuyente clasificacion imms microsip pais adress_country_id estado adress_city_id colonia calle numero cp
+open layout_darandal_secovi.xlsx | get Clientes | columns | rename "id" "nombre" "rfc" "razon_social" "tipo_de_contribuyente" "clasificacion" "imms" "microsip" "pais" "adress_country_id" "estado" "adress_city_id" "colonia" "calle" "numero" "cp"
+clear
+open layout_darandal_secovi.xlsx | get Clientes | columns | rename "id" "nombre" "rfc" "razon_social" "tipo_de_contribuyente" "clasificacion" "imms" "microsip" "pais" "adress_country_id" "estado" "adress_city_id" "colonia" "calle" "numero" "cp"
+nu rename --help
+nu help rename
+nu help
+nu --help
+ni
+clear
+nu request.nu
+ls
+nu request.nu
+open Layout_SECOVI.xlsx | get Clientes
+clear
+open ./Layout_SECOVI.xlsx
+| get Clientes 
+| skip 1
+| rename id nombre rfc razon_social tipo_de_contribuyente clasificacion imms microsip pais adress_country_id estado adress_city_id colonia calle numero cp
+| filter {|row| ($row.address_city_id != null) and ($row.address_state_id != null) }
+| to csv
+| save --force sitios_filtrados.csv
+print "📁 CSV generado: sitios_filtrados_2.csv"
+clear
+open ./Layout_SECOVI.xlsx
+clear
+open ./Layout_SECOVI.xlsx | get Clientes | skip 1
+clear
+open layout_darandal_secovi.xlsx | get Clientes | columns | rename "id" "nombre" "rfc" "razon_social" "tipo_de_contribuyente" "clasificacion" "imms" "microsip" "pais" "adress_country_id" "estado" "adress_city_id" "colonia" "calle" "numero" "cp"
+clear
+nu request.nu
+clear
+nu request.nu
+open ./Layout_SECOVI.xlsx
+| get Clientes 
+| skip 1
+| first 1
+| columns
+open ./Layout_SECOVI.xlsx | get Clientes | skip 1 | first 1 | columns
+open ./Layout_SECOVI.xlsx | get Clientes | first 1 | columns
+open ./Layout_SECOVI.xlsx | get Clientes | columns
+clear
+open ./sitios_filtrados.csv
+clear
+cd DurandalWeb\
+clear
+ls
+code .
+lazygit
+clear
+cd ..
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+cd Dev\DurandalWeb\server\
+nodemon ./index.js
+node ./index.js
+npm i
+nu request.nu
+clear
+nu request.nu
+nodemon ./index.js
+clear
+nu request.nu
+nodemon ./index.js
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request_sitios.nu
+clear
+nu request_sitios.nu
+clear
+nu request_sitios.nu
+nodemon ./index.js
+clear
+lazygit
+git checkout eaton
+clear
+cd DurandalWeb\
+clear
+cd client\
+ls
+npm i
+git checkout secovi
+clear
+cd ../..
+clear
+ckear
+clear
+nu request_sitios.nu
+node ./index.js
+nu request_sitios.nu
+ls
+clear
+nu ./request_equip.nu
+clear
+nodemon ./index.js
+cargo install fastfetch
+winget install fastfetch
+fastfetch
+print $env.shell
+print $env
+cd Dev
+gh repo clone nexorbs/webpage
+clear
+yazi
+cd NEXORBS\webpage\
+clear
+ls
+clear
+npx create vite@latest
+npm create vue@latest
+ls
+code .
+npm i
+clear
+npm run start
+npm run
+npm run dev
+clear
+npm install tailwindcss @tailwindcss/vite
+npm run dev
+lazygit
+npm run build
+npm run dev
+npm install @heroicons/vue
+cd Dev\DurandalWeb\server\
+cd Dev\
+code .
+clear\
+clear
+clear
+nu ./request_equip.nu
+clear
+nodemon ./index.js
+code .
+nu ./request_equipos.nu
+clear
+cd NEXORBS\webpage\
+code .
+clear
+npm run dev
+clear
+git fetch
+git checkout feature/home
+clear
+npm run dev
+cd ..
+clear
+nu ./request_contacts.nu
+clear
+nu ./request_contacts.nu
+nodemon ./index.js
+nu ./request_contacts.nu
+clear
+nu ./request_contacts.nu
+cd Dev\DurandalWeb\
+clear
+code .
+cd client\durandaltest
+gh repo clone Wilovy09/wilovy-me
+cd wilovy-me\
+code .
+npm run dev
+npm i
+npm run dev
+npm run start
+cd Dev\DurandalWeb\
+clear
+lazygit
+clear
+git fetch
+git checkout fix/GREENBIOMASS-report_equipment_detail
+code .
+cd Dev\DurandalWeb\
+cd server\
+clear
+cd client\
+clear
+ls
+clear
+nodemon ./index.js
+cd Dev\DurandalWeb\server\
+nodemon ./index.js
+clear
+npm run start
+clear
+lazygit
+clear
+ls
+ls
+cd durandaltest\
+clear
+ls
+clear
+npm i
+npm i
+nodemon ./index.js
+clear
+cd Dev\
+cd NEXORBS\
+clear
+gh repo clone nexorbs/orbita
+cd orbita\
+clear
+git checkout develop
+clear
+cargo init .
+ls
+clear
+mkdir ui
+clear
+code .
+cargo add slint
+cargo add --build slint-build
+clear
+cargo run
+clear
+cargo run
+npm run start
+clear
+lazygit
+cd ../..
+nvim
+clear
+code .
+open ./registros_matcheados.json
+nu request_matched_sites.nu
+clear
+nu request_matched_sites.nu
+clear
+nu request_matched_sites.nu
+clear
+nodemon ./index.js
+npm i
+clear
+nodemon ./index.js
+nu request_matched_sites.nu
+nodemon ./index.js
+nu request_matched_sites.nu
+clear
+nu request_matched_sites.nu
+http get https://localhost:3001/app/login
+http get http://localhost:3001/app/login
+http get http://google.com
+let response = http get http://google.com; print $response;
+print(http get http://google.com)
+clear
+cd Dev\
+clear
+http get --full https://www.mrhaki.com/nushell.txt
+nu request_matched_sites.nu
+clear
+nu ./request_matched_sites.nu
+clear
+nu ./request_matched_sites.nu
+clear
+nu ./request_matched_sites.nu
+clear
+nu ./request_matched_sites.nu
+clear
+nu ./request_matched_sites.nu
+nodemon ./index.js
+cd Dev\
+code .
+py
+clear
+cd Dev\
+code .
+open 2025-06-17-matched_sites.log
+clear
+nu replace.nu
+clear
+cd DurandalWeb\server
+clear
+cd Dev\
+nu request_matched_sites.nu
+open matched.json
+nu request_matched_sites.nu
+open matched.json
+clear
+open matched.json
+clear
+open matched.json
+nu request_matched_sites.nu
+open matched.json
+nu request_matched_sites.nu
+clear
+nodemon ./index.js
+cd NEXORBS\webpage\
+clear
+git fetch
+git pull
+npm run dev
+code .
+npm run dev
+cd ../..
+code .
+code .
+nu request_equipos.nu
+clear
+nu request_equipos.nu
+cargo init test-pipeit
+cd test-pipeit\
+cargo add pipeit
+code .
+cargo run
+nodemon ./index.js
+cd Dev\DurandalWeb\
+lazygit
+clear
+lazygit
+git fetch; git checkout fix/general-things
+cd Dev\DurandalWeb\
+cd server\
+clear
+cd client\durandaltest\
+cd Dev\DurandalWeb\
+code .
+npm i
+npm i
+clear
+clear
+nodemon ./index.js
+npm run start
+clear
+cd ../../..
+clear
+cd Dev\
+cd NEXORBS\
+clear
+cd orbita\
+code .
+cargo run
+cd Dev\DurandalWeb\
+clear
+cd Dev\DurandalWeb\
+clear
+cd server\
+cd client\durandaltest\
+npm run start
+clear
+nodemon ./index.js
+clear
+lazygit
+git checkout avance-tecnologia
+git fetch
+git pull
+git checkout fix/general-things
+clear
+git merge origin/avance-tecnologia
+clear
+npm run start
+clear
+nodemon ./index.js
+clear
+git fetch
+clear
+git checkout feature/AVANCE-migrate_to_vite
+clear
+cd ..
+clear
+ls
+clear
+npm uninstall react-script react-scripts
+npm install vite @vitejs/plugin-react -D
+clear
+cd ..
+./orbita.exe --path ./DurandalWeb/client/ --modo js-a-jsx -d
+clear
+cd DurandalWeb
+./orbita.exe --path ./client/ --modo js-a-jsx -d
+./orbita.exe --path ./client/src/ --modo js-a-jsx -d
+./orbita.exe --path ./client/src/ --modo js-a-jsx
+clear
+npm run start
+npm run
+cd client\
+npm run start
+nodemon ./index.js
+clear
+lazygit
+clear
+cd durandaltest\
+clear
+npm run start
+nodemon ./index.js
+clear
+ls
+clear
+npm run start
+cd Dev\DurandalWeb\client\durandaltest\
+clear
+npm i
+npm i -g pnpm
+npm run start
+nodemon ./index.js
+clear
+cd ..
+clear
+git fetch
+git pull 
+clear
+cd ..
+clear
+git pull origin avance-tecnologia
+clear
+cd client\durandaltest\
+cd server\
+npm run start
+nodemon ./index.js
+clear
+clear
+cd Dev\NEXORBS\orbita\
+clear
+code .
+slint-viewer --auto-reload ./ui/index.slint
+clear
+slint-viewer --auto-reload ./ui/index.slint
+cargo run
+cargo build --release
+./target/release/orbita.exe
+cd Dev\NEXORBS\orbita\
+code .
+slint-viewer --auto-reload ./ui/index.slint
+cd Dev\NEXORBS\orbita\
+slint-viewer --auto-reload ./ui/index.slint
+cd ../..
+clear
+cd DurandalWeb\
+clear
+git checkout feature/AMI-send_surveys
+code .
+clear
+clar
+clear
+yazi
+pnpm uninstall react-script react-scripts
+npm uninstall react-script react-scripts
+cd client\
+npm uninstall react-script react-scripts
+pnpm install vite @vitejs/plugin-react -D
+clear
+yazi
+clear
+cd ..
+./orbita.exe --path ./DurandalWeb/client/src/ --modo js-a-jsx
+code .
+cd ..
+cd Dev\DurandalWeb\
+code .
+cd Dev\DurandalWeb\server\
+clear
+cd client\
+clear
+npm run start
+pnpm install
+nodemon ./index.js
+npm i
+npm run start
+clear
+ls
+clear
+npm i
+npm run start
+cd Dev\DurandalWeb\
+cd Dev
+clear
+gh repo clone DABIcompany/DurandalWeb
+cd DurandalWeb\
+git checkout feature/AMI-send_surveys
+code .
+yazi
+clear
+cd client\
+ls
+clear
+npm uninstall react-script react-scripts
+clear
+cd ../..
+clear
+./orbita.exe --path ./DurandalWeb/client/src/ --modo js-a-jsx
+clear
+cd DurandalWeb\client\
+cd Dev/DurandalWeb
+cd server\
+npm run start
+npm i
+npm install vite @vitejs/plugin-react -D
+npm run start
+clear
+ls
+npm run start
+nodemon ./index.js
+clear
+clear
+cd Dev\NEXORBS\orbita\
+code .
+slint-viewer --auto-reload ./ui/index.slint
+clear
+slint-viewer --auto-reload ./ui/index.slint
+clear
+cd
+cd Dev\DurandalWeb\
+cd client\
+nodemon ./index.js
+cd ..
+code .
+cd server\; nodemon ./index.js
+odemon ./index.js
+nodemon ./index.js
+npm run start
+cd
+cd Dev\NEXORBS\orbita\
+clear
+code .
+slint-viewer --auto-reload ./ui/index.slint
+cd Dev\NEXORBS\orbita\
+clear
+code .
+slint-viewer --auto-reload ./ui/index.slint
+cd Dev\NEXORBS\orbita\
+clear
+code .
+clear
+cargo add sqlx
+cargo add sqlx -F asdfasdf
+cargo run
+slint-viewer --auto-reload ./ui/index.slint
+clear
+cargo run
+cargo add tokio -F full
+cargo add serd -F derive
+cargo add serde -F derive
+cargo add serde_json
+code .
+cargo run
+clear
+code .
+cd Dev\NEXORBS\orbita\
+code .
+cargo run
+cargo watch -x run
+cd Dev\NEXORBS\orbita\
+clear
+code .
+cargo watch -x run
+clear
+cargo build --release
+./target/release/orbita.exe
+la target\release\
+ls target\release\
+cd Dev\NEXORBS\orbita\
+clear
+code .
+slint-viewer --auto-reload ./ui/index.slint
+clear
+cd Dev\NEXORBS\orbita\
+clear
+code .
+cargo watch -x run
+ls
+cargo watch -x run
+clear
+lazygit
+clear
+code .
+clear
+cargo watch -x run
+lazygit
+clear
+cargo watch -x run
+clear
+cargo watch -x run
+slint-viewer --auto-reload ./ui/index.slint
+cargo watch -x run
+clear
+cargo watch -x run
+clear
+cargo watch -x run
+slint-viewer --auto-reload ./ui/index.slint
+clear
+slint-viewer --auto-reload ./ui/index.slint
+cargo watch -x run
+cd Dev\NEXORBS\orbita\
+code .
+clear
+slint-viewer --auto-reload ./ui/index.slint
+clear
+slint-viewer --auto-reload ./ui/index.slint
+clear
+cd Dev\NEXORBS\orbita\
+slint-viewer --auto-reload ./ui/index.slint
+clear
+slint-viewer --auto-reload ./ui/index.slint
+clear
+cd Dev\NEXORBS\orbita\
+slint-viewer --auto-reload ./ui/index.slint
+clear
+slint-viewer --auto-reload ./ui/index.slint
+clear
+slint-viewer --auto-reload ./ui/index.slint
+clear
+slint-viewer --auto-reload ./ui/index.slint
+clear
+slint-viewer --auto-reload ./ui/index.slint
+sl
+clear
+slint-viewer --auto-reload ./ui/index.slint
+cargo watch -x run
+clear
+cargo run
+cd Dev\NEXORBS\orbita\
+slint-viewer --auto-reload ./ui/index.slint
+clear
+cargo run
+cd Dev\NEXORBS\orbita\
+clear
+cargo run
+slint-viewer --auto-reload ./ui/index.slint
+clear
+code .
+clear
+cargo run
+slint-viewer --auto-reload ./ui/index.slint
+cargo run
+slint-viewer --auto-reload ./ui/index.slint
+cargo run
+slint-viewer --auto-reload ./ui/index.slint
+clear
+git fetch
+git pull
+clear
+slint-viewer --auto-reload ./ui/index.slint
+clear
+slint-viewer --auto-reload ./ui/index.slint
+cargo build --release
+ls target\release\
+clear
+slint-viewer --auto-reload ./ui/index.slint
+cd Dev\NEXORBS\orbita\
+slint-viewer --auto-reload ./ui/index.slint
+clear
+cd Dev\NEXORBS\orbita\
+clear
+cd Dev/DurandalWeb/
+ls
+cd server\
+cat .env
+cargo run
+clear
+echo -e "\e[0;32mHOLA\e[0m"
+print -e "\e[0;32mHOLA\e[0m"
+cd 
+cd Dev\NEXORBS\orbita\
+code .
+slint-viewer --auto-reload ./ui/index.slint
+cd
+clear
+cd Dev
+clear
+ls
+mkdir FORKS
+cd FORKS\
+gh repo clone Wilovy09/slint-fork
+clear
+cd slint-fork\
+git fetch
+git checkout feature/custom_selected_text_color_text_edit
+clear
+code .
+cd Dev\DurandalWeb\
+lazygit
+git checkout ami
+git fetch
+git pull
+git pull origin ami
+git pull origin/ami
+clear
+git checkout feature/AMI-send_surveys
+git merge ami
+code .
+cd examples\
+cargo init test-component
+cd Dev\NEXORBS\orbita\
+cat build.rs
+cat src\main.rs
+clear
+cat ui\partials\QueryEditor.slint
+cd test-component\
+clear
+code .
+cargo run
+cd Dev\DurandalWeb\
+lazygit
+clear
+git fetch
+clear
+git fetch
+git checkout fix/marco-things
+clear
+code .
+npm run start
+clear
+cd client\
+clear
+cd server\
+npm i
+npm i
+nodemon ./index.js
+npm run start
+clear
+clear
+cd Dev\DurandalWeb\
+cd ..
+cd NEXORBS\orbita\
+code .
+cargo run
+clear
+cargo run
+npm run start
+cd Dev\DurandalWeb\
+git checkout eaton
+clear
+code .
+cd Dev\DurandalWeb\
+cd server\
+ls
+cd client\
+npm i
+npm i
+clear
+nodemon ./index.js
+clear
+npm run start
+clear
+cd Dev\NEXORBS\orbita\
+clear
+code .
+cargo watch -x run
+clear
+cargo watch -x run
+cd
+cd Dev\DurandalWeb\client\
+cd Dev\DurandalWeb\
+code .
+npm run start
+nodemon ./index.js
+clear
+git checkout fix/marco-things
+clear
+npm i
+npm i
+nodemon ./index.js
+npm run start
+clear
+clear
+cd Dev/NEXORBS/orbita/
+clear
+code .
+cargo watch -x run
+clear
+cd Dev/NEXORBS/orbita/
+clear
+code .
+cargo watch -x run
+cd Dev/NEXORBS/
+npx create vite@latest
+npm create vue@latest
+cd DABI-WEB\
+clear
+code .
+cd ..
+clear
+cargo init actix-inertia-template
+cd actix-inertia-template\
+clear
+code .
+cargo add actix-web actix-inertia serde tera actix-files
+cargo add serde -F derive
+cargo add serde_json
+clear
+ls
+clear
+npm create vue@latest
+ls
+clear
+cd inertia\
+clear
+npm install inertia
+npm install @inertiajs/inertia @inertiajs/inertia-vue3 @inertiajs/vue3 @inertiajs/progress
+cd ..
+gh repo clone jehadja/actix-inertia
+cd actix-inertia\
+clear
+code .
+cd example\
+clear
+code .
+cargo add actix-web serde_json tera actix-files
+cargo add serde -F derive
+cargo add actix-web serde_json tera actix-files
+cargo add serde -F derive
+clear
+cd my-inertia-app\
+clear
+npm i
+npm upgrade
+cd ..
+cargo run
+cd Dev\DurandalWeb\
+clear
+cd Dev\DurandalWeb\
+cd server\
+clear
+cd client\
+clear
+ls
+clear
+cat _SELECT_a_id_a_name_a_tag_JSON_ARRAYAGG_ao_option_str_AS_options_202506251024.csv
+cd Dev\DurandalWeb\
+ls
+nu create.nu
+clear
+nu create.nu
+cat create.nu
+clear
+nodemon ./index.js
+cd Dev\DurandalWeb\server\
+clear
+nodemon ./index.js | less
+clear
+nodemon ./index.js | tee -a output.log
+nodemon ./index.js > out.log
+nodemon ./index.js > output.log 2>&1
+clear
+nodemon ./index.js out+err> logs.txt
+tee
+clear
+nodemon ./index.js
+nodemon ./index.js | C:\Users\Emiliano Garza\Downloads\tee-win32.2023-11-27\tee-x64.exe log.log
+cd Dev\DurandalWeb\server\
+clear
+"C:\Users\Emiliano Garza\Downloads\tee-win32.2023-11-27\tee-x64.exe"
+./"C:\Users\Emiliano Garza\Downloads\tee-win32.2023-11-27\tee-x64.exe"
+cd "C:\Users\Emiliano Garza\Downloads\tee-win32.2023-11-27\tee-x64.exe"
+cd "Downloads\tee-win32.2023-11-27\tee-x64.exe"
+cd
+cd Downloads\tee-win32.2023-11-27\
+clear
+ls
+./tee-x64.exe --help
+nodemon ../../Dev/DurandalWeb/server/index.js | ./tee-x64.exe log.log
+cd
+clear
+cd Dev\DurandalWeb\server\
+nodemon ./index.js
+cd Dev\NEXORBS\orbita\
+code .
+clear
+cargo watch -x run
+cd Dev\DurandalWeb\s
+cd Dev\DurandalWeb\
+code .
+cd Dev\DurandalWeb\server\
+npm run start
+cd client\
+nodemon ./index.js
+nodemon ./index.js out+err> logs_2.txt
+npm run start
+cd Dev\DurandalWeb\server\
+clear
+cd
+cd Dev/NEXORBS/orbita/
+clear
+code .
+cargo watch -x run
+slint-viewer --auto-reload ./ui/index.slint
+cargo watch -x run
+slint-viewer --auto-reload ./ui/index.slint
+cargo watch -x run
+clear
+cd Dev/DurandalWeb/
+clear
+cd client\
+cd Dev/DurandalWeb/server/
+nodemon ./index.js
+npm run start
+cd ..
+lazygit
+code .
+lazygit
+clear
+git checkout stulz
+clear
+clear
+code .
+cd client\
+clear
+npm i
+npm i
+npm run start
+npm run
+cd durandaltest\
+npm run start
+npm i
+npm run start
+cd Dev/DurandalWeb/server/
+lazygit
+clear
+git log
+lazygit
+clear
+nodemon ./index.js
+clear
+git checkout fix/marco-things
+clear
+clear
+cd ..
+ls
+npm i
+clear
+clear
+npm i
+nodemon ./index.js
+cd Dev/DurandalWeb/
+nu create.nu
+cd Dev\NEXORBS\orbita\
+clear
+code .
+cd
+rustup update stable
+cargo --version
+cargo run
+cd Dev\NEXORBS\orbita\
+nodemon ./index.js out+err> logs.txt
+cargo run
+cd Dev\NEXORBS\
+cargo init orbita-2
+cd orbita-2\
+cargo add slint
+cargo add slint -F asdfasdf
+clear
+cargo add --help
+cargo add --build slint-build
+ls
+touch build.rs
+ls
+clear
+touch ui/app.slint
+mkdir ui
+touch ./ui/app.slint
+ls
+clear
+nodemon ./index.js
+nodemon ./index.js out+err> logs.log
+npm i; npm run start
+clear
+nodemon ./index.js
+clear
+git checkout hotfix/add-value-capacity-fields
+git fetch
+git checkout hotfix/add-value-capacity-fields
+cd ..
+ls
+ls client\
+clear
+cd client\durandaltest\
+ls
+cd Dev\DurandalWeb\
+lazygit
+npm i; npm run start
+clear
+cd Dev\NEXORBS\orbita-2\
+code .
+cd Dev\NEXORBS\orbita\
+cat ui\partials\MenuBar.slint
+yazi
+cargo run
+cargo add slint -F asdfasdf
+cargo add slint -F backend-winit
+clear
+cargo run
+cd Dev\DurandalWeb\
+clear
+git branch
+git checkout fix/marco-things
+clear
+cd Dev\DurandalWeb\
+cd server\
+code .
+cd client\
+clear
+ls
+npm i; nodemon ./index.js
+git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+clear
+cd Dev\DurandalWeb\
+git branch
+cd .idea\
+nu create.nu
+nodemon ./index.js
+clear
+nodemon ./index.js out+err> logs.log
+nodemon ./index.js
+clear
+cd Dev
+gh repo clone Brayan-724/amosd
+yazi
+gh repo clone Wilovy09/amosd-fork
+cd amosd-fork\
+touch README.md
+code .
+git fetch
+git checkout fix/add-temporal-readme
+clear
+yazi
+cd Dev\DurandalWeb\
+clear
+cd Dev\DurandalWeb\
+code .
+cd Dev\DurandalWeb\server\
+clear
+cd client\
+ls
+clear
+nodemon ./index.js
+clear
+cd Dev\DurandalWeb\.idea\
+nu create.nu
+nodemon ./index.js out+err> logs.log
+cd Dev
+cargo init test-test
+ls test-test\
+cat test-test\src\main.rs
+cat test-test\Cargo.toml
+npm run start
+nodemon ./index.js
+git checkout eaton
+git fetch
+git pull
+clear
+ls
+clear
+cd Dev\DurandalWeb\server\
+npm i; npm run start
+npm i; nodemon ./index.js
+clear
+clear
+cd Dev\DurandalWeb\
+ls
+clear
+code .
+cd Dev\DurandalWeb\
+clear
+git checkout -b fix/EATON-permission-fixes
+lazygit
+clear
+lazygit
+git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+clear
+cd server\
+cd client\
+npm run start
+nodemon ./index.js
+cd ..
+cd ..
+clear
+git checkout ambiens
+cd client\
+ls
+cd server\
+cd Dev\DurandalWeb\
+git pull
+npm i; nodemon ./index.js
+nodemon ./index.js
+npm i; npm run start
+lazygit
+clear
+ls
+npm i; nodemon ./index.js
+npm i; npm run start
+cd Dev\DurandalWeb\
+code .
+cd client\
+cd Dev\DurandalWeb\server\
+clear
+cd Dev
+ls
+cd FORKS\
+cargo init sword-test
+cd sword-test\
+code .
+cargo add sword
+cargo check
+cargo add tokio -F full
+clear
+cargo run
+cargo add serde_json
+cargo run
+http get http://localhost:8080/api/hello
+http get --full http://localhost:8080/api/hello
+nodemon ./index.js
+cd Dev\FORKS\sword-test\
+clear
+cargo run
+cargo watch -x run
+cd ..
+gh repo clone Wilovy09/sword-fork
+cd sword-fork\
+clear
+code .
+clear
+cd ..
+clear
+cd sword-test\
+ls
+cd ..
+ls
+cd sword-test\
+clear
+cd Dev\FORKS\sword-fork\
+ls
+cd sword\
+ls
+cd .
+cd ..
+code .
+cargo watch -x run
+clear
+cd ../sword-fork
+ls -la
+cat Cargo.toml
+find . -name "Cargo.toml" -exec grep -l "name.*sword" {} \;
+cargo watch -x run
+clear
+cd sword-macros\
+cargo build
+cd ..
+clear
+cargo build
+cargo run
+cargo build
+cargo run
+npm run start
+cd Dev\FORKS\sword-fork\
+code .
+cd Dev\FORKS\sword-test\
+code .
+cargo run
+cargo watch -x run
+cd Dev\DurandalWeb\
+git checkout secovi
+clear
+code .
+cd client\
+ls
+cd ..
+cd server\
+npm i
+nodemon ./index.js out+err> logs.log
+clear
+cd
+cd Dev\FORKS\
+ls
+cat sword-test\Cargo.toml
+code .
+cd sword-test\
+clear
+cargo watch -x run
+clear
+cd Dev\DurandalWeb\
+lazygit
+git checkout ami
+git pull
+clear
+code .
+cd
+cd Dev\FORKS\
+yazi
+clear
+code .
+cd sword-test\
+clear
+cargo run
+cargo update
+cargo run
+clear
+cargo run
+clear
+cargo run
+cd ..
+cd sword-fork\
+cd sword\
+cargo add async-trait
+cargo add axum_core
+cargo add http
+code .
+nu request.nu
+clear
+cd Dev\EATON\
+code .
+nu request.nu
+clear
+cd Dev\FORKS\sword-test\
+code .
+clear
+http get --full http://localhost:8080/
+http get --help
+http get --full -r http://localhost:8080/
+http get -r http://localhost:8080/
+clear
+cargo run
+cd Dev
+cd EATON\
+code .
+nu request.nu
+clear
+./clean_duplicates.ps1
+powershell -ExecutionPolicy Bypass -File "c:\Users\Emiliano Garza\Dev\EATON\clean_duplicates.ps1"
+nu request.nu
+clear
+cd ..
+cat DurandalWeb\server\.env
+cd DurandalWeb\
+clear
+git checkout eaton
+code .
+clear
+cd client\
+ls
+cd Dev\DurandalWeb\server
+clear
+npm i; nodemon ./index.js
+npm i; npm run start
+clear
+clear
+cd ..
+git checkout gh repo clone DABIcompany/DurandalWeb
+git checkout dimcsa
+git fetch
+git checkout dimcsa
+clear
+cd Dev\DurandalWeb\
+clear
+git checkout conectate
+code .
+clear
+fastfetch
+cd Dev\
+clear
+cargo init oxc-vue
+cd oxc-vue\
+code .
+cd ..
+clear
+yazi
+clear
+cargo init sword-full-stack
+cd sword-full-stack\
+cargo add sword
+cargo add axum-inertia
+clear
+code .
+cargo add tokio -F full
+clear
+cargo add validator shaki async-trait
+cargo add validator shaku async-trait
+npm create vue@latest
+cd frontend\
+npm i
+cargo add serde -F derive
+cargo add serde_json
+clear
+cd ..
+http get -r http://localhost:8080/dashboard
+http get -r http://localhost:8080/dashboard | json
+http get -r http://localhost:8080/dashboard | to-json
+http get -r http://localhost:8080/dashboard | to json
+http get http://localhost:8080/dashboard | to json
+cargo run
+cd frontend\
+clear
+npm install @inertiajs/inertia @inertiajs/inertia-vue3 @inertiajs/vue3 @inertiajs/progress
+clear
+cd Dev\sword-full-stack\
+clear
+npm run dev
+npm i
+npm run dev
+cd ..
+cd DurandalWeb\
+cargo run
+clear
+git checkout avance-tecnologia
+git fetch
+git pull
+clear
+code .
+cd Dev\DurandalWeb\server\
+cd client\durandaltest
+cd Dev\sword-full-stack\
+cat src\main.rs
+cat frontend\src\views\Dashboard.vue
+cat src\helpers\inertia_response.rs
+clear
+cat src\main.rs
+clear
+ls --help
+ls subdir
+ls -f
+cargo install eza
+clear
+code .
+cd frontend\
+npm install @inertiajs/vue3
+clear
+cd ..
+code .
+cargo add axum
+npm i; nodemon ./index.js
+odemon ./index.js
+npm i; npm run start
+clear
+code .
+cd Dev\DurandalWeb\
+zed
+clear
+zed
+nu config
+clear
+zed
+clear
+zed
+cd Dev\DurandalWeb\
+cd Dev\DurandalWeb\client\
+cd durandaltest\
+clear
+npx prettier . --write
+clear
+npm install --save-dev --save-exact prettier
+lazygit
+clear
+zed .
+cd ..
+npm run start
+gitui
+clear
+cd Dev\sword-full-stack\
+cd Dev\EATON\
+zed .
+ls | to json
+clear
+to json | ls
+(ls)
+clear
+cd Dev\DurandalWeb\
+clear
+cd Dev\DurandalWeb\
+clear
+lazygit
+clear
+cd Dev\DurandalWeb\server\
+cd client\durandaltest\
+npm run start
+nodemon ./index.js
+clear
+lazygit
+clear
+git checkout sigma
+clear
+cd ..
+yazi
+cd ../server/
+clear
+cargo install atac --locked
+clear
+atac
+clear
+cd Dev/
+mkdir SIGMA
+cd SIGMA\
+touch .env
+nano
+micro
+clear
+winget install Microsoft.Edit
+edit ./.env
+clear
+cd Dev\DurandalWeb\server\
+cd Dev/SIGMA/
+edit ./.env
+ls
+clear
+atac -d ./.env
+cd ..
+atac -d ./SIGMA/
+yazi
+edit ./SIGMA/.env.SIGMA
+clear
+nodemon ./index.js
+clear
+code .
+atac -d ./SIGMA/
+edit .
+edit ./SIGMA/.env.SIGMA
+cd SIGMA\
+touch request.nu
+clear
+cd Dev\
+clear
+ls
+clear
+cat EATON\request.nu
+clear
+open SIGMA\LayoutDURANDAL-SIGMA-TIENDAS.csv
+clear
+cat SIGMA\LayoutDURANDAL-SIGMA-TIENDAS.csv
+clear
+winget install sharkdp.bat
+bat SIGMA\request.nu
+nodemon ./index.js
+cd Dev\DurandalWeb\server\
+cd Dev/SIGMA/
+bat request.nu
+clear
+cd ../EATON/ | bat ./request.nu
+cd ../EATON/
+cat ./request.nu
+bat ./request.nu
+bat.exe --help
+bat.exe --color always ./request.nu
+clear
+cd ../SIGMA/
+clear
+cd Dev\DurandalWeb\
+code .
+nu request.nu
+clear
+nu request.nu
+clear
+open request.nu
+open request.nu | nu-highlight
+cat request.nu | nu-highlight
+clear
+nu request.nu
+clear
+nu request.nu
+nu request.nu | count
+clear
+nu request.nu
+clear
+nu request.nu
+nodemon ./index.js
+clear
+nu request.nu
+clear
+nu request.nu
+'24/06/2025' | date
+date --help
+date from-human
+date from-human --help
+'24/06/2025' | date from-human
+'24/06/2025' | date 
+date --help
+date humanize --help
+'24/06/2025' | date humanize
+'24/06/2025' | date humanize --now
+clear
+'24/06/2025' | into datetime
+into datetime --help
+'24/06/2025' | into datetime --format '%d.%m.%Y'
+'24/06/2025' | to text 
+clear
+'24/06/2025' | into datetime
+'24/06/2025' | date humanize
+'24/06/2025' | date from-human
+'24/06/2025'  | into datetime -f "%d/%m/%Y" | format date "%Y-%m-%d"
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear; nodemon ./index.js
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+cd ..
+cd DurandalWeb\client\durandaltest\
+clear
+nodemon ./index.js
+cd Dev\DurandalWeb\
+clear
+winget install ajeetdsouza.zoxide
+z --hep
+nu --version
+clear
+cd %APPDATA%
+cd "C:\Users\Emiliano Garza\AppData\Roaming\nushell"
+$nu.env-path
+z --help
+clear
+z
+z Dev/DurandalWeb/
+z ..
+z DurandalWeb
+cd DurandalWeb
+zoxide DurandalWeb
+zoxide.exe --help
+zoxide.exe Dev\DurandalWeb\
+z DurandalWeb
+clear
+z --help
+clear
+z DurandalWeb
+z DurandalWeb
+z client\
+z server\
+z durandaltest\
+z Dev\DurandalWeb\
+ls
+eza
+eza --tree
+eza --tree --depth=1
+eza --tree --depth 1
+z `../Emiliano Garza/AppData/Roaming/`
+z
+z Roaming
+z Zed\
+cat keymap.json
+z DurandalDev
+z Dev\DurandalWeb\
+code .
+clear
+cd
+z Dev\
+mkdir DIMCSA
+z DIMCSA\
+npm run start
+nodemon ./index.js
+Y
+clear
+clear
+git checkout dimcsa
+z ..
+clear
+z Dev\DurandalWeb\
+clear
+ls
+ls client\
+clear
+z client\
+yazi
+z server\
+npm i
+npm i
+clear
+clear
+ls
+clear
+edit .env
+clear
+z ..
+z DurandalWeb\
+npm run start
+z DurandalWeb\
+z ..
+z Dev\DIMCSA\
+nu request.nu
+nodemon ./index.js
+nu request.nu
+clear
+date | is null
+nu request.nu
+clear
+nu request.nu
+z ..
+ls
+z ..
+ls
+z ..
+ls
+z `Program Files\`
+ls
+z ..
+which nu
+z `C:\Users\Emiliano Garza\AppData\Local\Programs\nu\bin\nu.exe`
+z `C:\Users\Emiliano Garza\AppData\Local\Programs\nu\bin\`
+./nu.exe --help
+./nu.exe --lsp
+yazi
+./nu.exe --lsp
+nushell --help
+./nu.exe --help
+nu --lsp
+z DIMCSA\
+z DurandalWeb\
+z
+z Dev/DIMCSA/
+nu request_clients.nu
+clear5
+clear
+clear
+nu request_clients.nu
+date 
+date now
+date now | into datetime
+date now
+nu request_clients.nu
+nodemon ./index.js
+clear
+nodemon ./index.js
+clear
+nu request_clients.nu
+clear
+nu clientes\request_clients.nu
+z clientes\
+nu request_clients.nu
+clear
+nu request_clients.nu
+nodemon ./index.js
+nu request_clients.nu
+clear
+nu request_clients.nu
+clear
+nu request_clients.nu
+nodemon ./index.js
+clear
+nu request_clients.nu
+clear
+nu request_clients.nu
+uuid generate
+nushell --help
+> random uuid
+random uuid
+random uuid --help
+random uuid -v 1
+random uuid -v 7
+random uuid -v 4
+clear
+random --help
+random chars --help
+random chars --lenght=20
+random chars --lenght 20
+random chars
+clear
+nu request_clients.nu
+clear
+nu ./request_clients.nu out+err> log.json
+nodemon ./index.js
+> http get http://example.org/ | tee { save example.html }
+http get http://example.org/ | tee { save example.html }
+ls
+z Dev/DIMCSA/
+z Dev/DurandalWeb/
+z client\
+clear
+z Dev/DurandalWeb/server/
+code .
+nodemon ./index.js
+cd ..
+code .
+cd server\
+cd sites\
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+z ..
+z equipos\
+clear
+ls
+nu request.nu
+clear
+;s
+ls
+z ..
+z equipos\
+clear
+ls
+z ..
+z equipments\
+ls
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+z ..
+z refacciones\
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+nodemon ./index.js
+nu request.nu
+clear
+nu request.nu
+clear
+nu request.nu
+npm run start
+cleart
+zoxide.exe init
+zoxide.exe init nushell
+APPROAMING
+z APPROAMING
+clear
+code .
+zoxide 
+zi
+zi DurandalWeb
+clear
+zi
+clear
+z
+clear
+z -
+z
+dirs --help
+clear
+std dirs --help
+use std
+use std dirs --help
+std dirs --help
+clear
+std dirs add --help
+clear
+zi DIMCSA
+clear
+code .
+ls
+git init
+gn repo new
+clear
+gh repo create
+lazygit
+zi
+lazygit
+zi
+code .
+clear
+zi
+lazygit
+code .
+clear
+git checkout eaton
+git fetch; git pull
+lazygit
+clear
+z server\
+clear
+npm i
+edit .env
+clear
+zi
+cler
+clear
+code .
+z ..
+z client\
+ls
+clear
+npm i
+z ..; code .; z -
+nodemon ./index.js
+z ..
+clear
+git checkout came
+z client\
+ls
+z durandaltest\
+npm i
+z ..
+z server\
+ls
+npm i
+z ..
+clear
+code .
+zi
+clear
+code .
+zi
+z server\
+ls
+edit .env
+clear
+clear
+z client\durandaltest\
+http get http://localhost:3001/listQuestions/441
+clear
+curl
+clear
+http get http://localhost:3001/app/listQuestions/441
+ipconfig
+npm i; nodemon ./index.js
+npm i; npm run start
+clear
+git fetch
+git checkout feat/CAME-autofill_questions
+git pull
+git checkout came
+clear
+git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+clear
+git checkout feat/CAME-autofill_questions
+git rebase came
+clear
+zi
+ls
+z durandaltest\
+clear
+nodemon ./index.js
+clear
+z
+winget install wez.wezterm
+zi
+z ../../
+ls
+z ..
+ls
+z ..
+explorer
+explorer .
+z Local\
+yazi
+z wezterm\
+code .
+z
+zi
+z .config
+ls
+z ..
+clear
+z .config\
+yazi
+code .
+clear
+ls
+clear
+clear
+ls
+clear
+lcs
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+winget install nvim
+clear
+a
+clear
+zi
+z wezterm\
+nvim wezterm.lua
+clear
+clerar
+clear
+zi 
+mkdir EATON-BSP
+clear
+code EATON-BSP\
+clear
+neofethc
+neofetch
+fastfetch
+clear
+ls
+clear
+z Dev/DurandalWeb/server/
+ls
+z EATON-BSP\
+clear
+ls
+touch request.nu
+clear
+mkdir sites
+clear
+z sites\
+clear
+z ..; code .; z -
+clear
+z ..
+clear
+z DIMCSA\
+cat clientes\request_clients.nu
+code .
+cat clientes\request_clients.nu | nu-highlight 
+cat clientes\request_clients.nu | nu-highlight | number
+cat clientes\request_clients.nu | nu-highlight | to csv 
+cat clientes\request_clients.nu | nu-highlight | table 
+clear
+cat equipments\request.nu
+clear
+cat equipments\request.nu | nu-highlight 
+clear
+let file = "equipments/request.nu"
+echo $file
+open $file
+| lines
+| enumerate
+| each { |it|<\n>    let line = $it.item | nu-highlight --extension nu<\n>    $"($it.index + 1 | str pad-left -l 4) │ ($line)"<\n>}
+clear
+cat equipments\request.nu | nu-highlight | enumerate 
+clear
+cat equipments\request.nu | nu-highlight | lines | enumerate 
+enumerate --help
+cat equipments\request.nu | nu-highlight | lines | enumerate+1
+let file = "equipments/request.nu"
+echo $file
+open $file
+| lines
+| enumerate
+| each { |it| <\n>    let line_num = ($it.index + 1 | str pad-left -l 4)<\n>    $"($line_num) │ ($it.item)"<\n>}
+clear
+let file = "equipments/request.nu"; echo $file; open $file | lines | enumerate | each { |it| $"($it.index + 1 | str pad-left -l 4) │ ($it.item)" }
+let file = "equipments/request.nu"; print $file; open $file | lines | enumerate | each { |it| $"($it.index + 1 | str pad-left -l 4) │ ($it.item)" }
+echo "equipments/request.nu"; open equipments/request.nu | lines | enumerate | each { |it| $"($it.index + 1 | str pad-left -l 4) │ ($it.item)" }
+clear
+echo "equipments/request.nu"; open equipments/request.nu | lines | enumerate | each { |it| $"($it.index + 1 | str pad-left -l 4) │ ($it.item)" }
+open ./equipments/request.nu | lines | enumerate | each { |it| $"($it.index + 1 | str pad-left -l 4) │ ($it.item)" }
+open ./equipments/request.nu | lines | enumerate | each { |it| $"($it.index + 1 ) │ ($it.item)" }
+open ./equipments/request.nu | lines | enumerate | each { |it| $"($it.index + 1 ) │ ($it.item)" } | nu-highlight 
+open ./equipments/request.nu | nu-highlight | lines | enumerate | each { |it| $"($it.index + 1 ) │ ($it.item)" }
+open ./equipments/request.nu | nu-highlight | lines | each { |it| $"($it.index + 1 ) │ ($it.item)" }
+open ./equipments/request.nu | nu-highlight | lines | enumarate | each { |it| $"($it.index + 1 )" }
+open ./equipments/request.nu | nu-highlight | lines | enumerate | each { |it| $"($it.index + 1 )" }
+open ./equipments/request.nu | nu-highlight | enumerate | each { |it| $"($it.index + 1 ) │ ($it.item)" }
+open ./equipments/request.nu | nu-highlight | lines | enumerate | each { |it| $"($it.index + 1 )" }
+open ./equipments/request.nu | nu-highlight | lines | each { |it| $"($it.index + 1 ) │ ($it.item)" }
+open ./equipments/request.nu | nu-highlight | lines | enumerate | each { |it| $"($it.index + 1 ) │ ($it.item)" }
+open ./equipments/request.nu | nu-highlight | lines | enumerate
+open ./equipments/request.nu
+clear
+zi .config
+code .
+zi Roaming
+code .
+mkdir dotfiles
+cd dotfiles\
+touch upload.nu
+clear
+code .
+z Roaming
+clear
+ls nushell\
+cd nushell\
+pwd
+z
+z dotfiles\
+clear
+nu request.nu
+nu upload.nu
+z
+z vscode
+z code
+zi code
+zi
+clear
+cd Code\
+code .
+z dotfiles\
+z
+z dotfiles\
+clear
+nu upload.nu
+z Roaming
+ls Zed\
+z Zed\
+pwd
+git init
+gh repo create
+clear
+nu upload.nu
