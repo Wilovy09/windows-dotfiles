@@ -3892,3 +3892,6 @@ git init
 gh repo create
 clear
 nu upload.nu
+clear
+gh repo view --web
+lazygit
